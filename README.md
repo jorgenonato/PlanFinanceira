@@ -1,2 +1,2 @@
-# PlanFinanceira
+# Planilha Financeira
 Planilha Financeira automatizada 
