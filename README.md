@@ -1,2 +1,2 @@
 # PlanFinanceira
-Planilha Financeira em Excel
+Planilha Financeira automatizada 
